@@ -57,10 +57,3 @@ $ npm run dev (executa a aplicação)
 ## 💬 Contato
 - [LinkedIn](https://www.linkedin.com/in/leonardo-porf%C3%ADrio-290954192/)
 - [GitHub](https://github.com/leozin-porfirio)
-
-
-
-### ❤️ 🔥 💥 ✅ ✔️ ☕ ❌ 💢 ➡️ ❓ ⚠️ 🚀 🎯 ☑️ 🥇 🆘 📝 📄 💬 📬 
-### 💻 🧠 🆗 ⚙️ 🏁 🕹️ 🛠️ 📁 ⚡ 📌 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 
-
-:octocat:
